@@ -1,0 +1,4 @@
+# Forzar 120 FPS en Free Fire
+persist.sys.display.refresh_rate=120
+persist.game.minfps=120
+persist.game.maxfps=120
