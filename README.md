@@ -25,21 +25,20 @@ This Magisk module is designed to enable the 120 FPS option in Free Fire on all 
 
 ## Usage
 
-Once you have installed the module and rebooted your device:
+Once you have installed the module and rebooted your device, the 120 FPS option will be enabled automatically in Free Fire without needing to manually select it:
 
 1. Open Free Fire.
-2. Go to the game settings.
-3. Look for the refresh rate or FPS option and select 120 FPS.
+2. The game will automatically apply the 120 FPS setting if supported by your device.
 
 ## Known Issues
 
 - Performance may vary depending on your device's capabilities and settings.
 - Not all devices will achieve the same level of fluidity, but the 120 FPS option will be available.
 
-## Credits
+## Credits:
 
-- **Magisk Manager**: Thanks to the developers of Magisk Manager for their essential tool. Visit their [repository](https://github.com/topjohnwu/Magisk) for more information.
-- **Module Developer**: Created by [your name or alias], aiming to enhance the Free Fire gaming experience.
+- **Magisk Manager**: [repository](https://github.com/topjohnwu/Magisk)
+- **Module Developer**: Created by [23devv], aiming to enhance the Free Fire gaming experience.
 
 ## Contributions
 
@@ -49,9 +48,9 @@ If you wish to contribute to the development of this module, please visit our [G
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Follow Me
+## Follow Me!
 
-For questions, updates, or support, follow me on [Twitter](http://twitter.com/your_username) or [GitHub](http://github.com/23devv).
+For questions, updates, or support, follow me on [X]([23devv](https://x.com/23devv) or [GitHub](http://github.com/23devv).
 
 ## Suggestions
 
@@ -60,3 +59,4 @@ We welcome any suggestions or improvements for the module. If you have ideas or 
 ---
 
 Thank you for using our module. Enjoy a smoother gaming experience with 120 FPS in Free Fire!
+
