@@ -38,7 +38,7 @@ Once you have installed the module and rebooted your device, the 120 FPS option 
 ## Credits:
 
 - **Magisk Manager**: [Magisk Manager](https://github.com/topjohnwu/Magisk)
-- **Module Developer**: Created by [23devv](https://x.com/23devv)aiming to enhance the Free Fire gaming experience.
+- **Module Developer**: Created by [23devv](https://x.com/23devv),aiming to enhance the Free Fire gaming experience.
 
 ## Contributions
 
