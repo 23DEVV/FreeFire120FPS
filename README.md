@@ -35,10 +35,10 @@ Once you have installed the module and rebooted your device, the 120 FPS option 
 - Performance may vary depending on your device's capabilities and settings.
 - Not all devices will achieve the same level of fluidity, but the 120 FPS option will be available.
 
-## Credits:
+## Credits
 
 - **Magisk Manager**: [Magisk Manager](https://github.com/topjohnwu/Magisk)
-- **Module Developer**: Created by [23devv](https://x.com/23devv),aiming to enhance the Free Fire gaming experience.
+- **Module Developer**: Created by [23devv](https://x.com/23devv), aiming to enhance the Free Fire gaming experience.
 
 ## Contributions
 
@@ -50,7 +50,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Follow Me!
 
-For questions, updates, or support, follow me on [X]([23devv](https://x.com/23devv) or [GitHub](http://github.com/23devv).
+For questions, updates, or support, follow me on [X](https://x.com/23devv) or [GitHub](http://github.com/23devv).
 
 ## Suggestions
 
@@ -59,4 +59,3 @@ We welcome any suggestions or improvements for the module. If you have ideas or 
 ---
 
 Thank you for using our module. Enjoy a smoother gaming experience with 120 FPS in Free Fire!
-
