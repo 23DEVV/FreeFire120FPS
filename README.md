@@ -30,11 +30,6 @@ Once you have installed the module and rebooted your device, the 120 FPS option 
 1. Open Free Fire.
 2. The game will automatically apply the 120 FPS setting if supported by your device.
 
-## Known Issues
-
-- Performance may vary depending on your device's capabilities and settings.
-- Not all devices will achieve the same level of fluidity, but the 120 FPS option will be available.
-
 ## Credits
 
 - **Magisk Manager**: [Magisk Manager](https://github.com/topjohnwu/Magisk)
