@@ -1,6 +1,3 @@
-Here’s the updated text with the correct link for the module:
-
----
 
 # Magisk Module: 120 FPS for Free Fire
 
