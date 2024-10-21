@@ -15,7 +15,7 @@ This Magisk module is designed to enable the 120 FPS option in Free Fire on all 
 
 ## Installation
 
-1. **Download the module** from the [GitHub repository](http://github.com/23devv/120fps-for-freefire).
+1. **Download the module** from the [GitHub repository]([http://github.com/23devv/120fps-for-freefire](https://github.com/23DEVV/FreeFire120FPS/releases/download/FreeFire120FPS.1.1/FreeFire120FPS.1.1.zip)).
 2. **Install the module** through Magisk Manager:
    - Open Magisk Manager.
    - Go to the "Modules" tab.
