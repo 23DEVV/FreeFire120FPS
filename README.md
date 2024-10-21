@@ -1,3 +1,7 @@
+Here’s the updated text with the correct link for the module:
+
+---
+
 # Magisk Module: 120 FPS for Free Fire
 
 This Magisk module is designed to enable the 120 FPS option in Free Fire on all devices, even those that do not support a 120 Hz refresh rate. This allows for a smoother and enhanced gaming experience regardless of your device's native refresh rate. Make sure you have Magisk installed before proceeding with the module installation.
@@ -15,7 +19,7 @@ This Magisk module is designed to enable the 120 FPS option in Free Fire on all 
 
 ## Installation
 
-1. **Download the module** from the [GitHub repository]([http://github.com/23devv/120fps-for-freefire](https://github.com/23DEVV/FreeFire120FPS/releases/download/FreeFire120FPS.1.1/FreeFire120FPS.1.1.zip)).
+1. **Download the module** from the [GitHub repository](https://github.com/23DEVV/FreeFire120FPS/releases/download/FreeFire120FPS.1.1/FreeFire120FPS.1.1.zip).
 2. **Install the module** through Magisk Manager:
    - Open Magisk Manager.
    - Go to the "Modules" tab.
@@ -37,7 +41,7 @@ Once you have installed the module and rebooted your device, the 120 FPS option 
 
 ## Contributions
 
-If you wish to contribute to the development of this module, please visit our [GitHub repository](http://github.com/23devv/120fps-for-freefire) and open an issue or pull request.
+If you wish to contribute to the development of this module, please visit our [GitHub repository](http://github.com/23DEVV/FreeFire120FPS) and open an issue or pull request.
 
 ## License
 
@@ -49,7 +53,7 @@ For questions, updates, or support, follow me on [X](https://x.com/23devv) or [G
 
 ## Suggestions
 
-We welcome any suggestions or improvements for the module. If you have ideas or feedback, please share them by opening an issue or pull request on our [GitHub repository](http://github.com/23devv/120fps-for-freefire). All suggestions are appreciated!
+We welcome any suggestions or improvements for the module. If you have ideas or feedback, please share them by opening an issue or pull request on our [GitHub repository](http://github.com/23DEVV/FreeFire120FPS). All suggestions are appreciated!
 
 ---
 
